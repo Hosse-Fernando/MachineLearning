@@ -1,5 +1,5 @@
 # UAS-Machine-Learning-4PSIB
-UAS Machine Learning 4
+UAS Machine Learning 4PSIB UIB
 Anggota Kelompok :
 * Hosse Fernando 1931057
 * Evan Charles 1931137
