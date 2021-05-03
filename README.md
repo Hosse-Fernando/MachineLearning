@@ -8,4 +8,4 @@ Anggota Kelompok :
 * Shanata Limanto 1931048
 * Jihadhatul Akbar 1931077
 
-Link Artikel : [Click me!](https://docs.google.com/document/d/1_0j9FKcCfKHm06oeE0cYBgGxk5uYLsCRP2C3VbAib5w/edit?usp=sharing)
+Link Artikel : [Article in Docs](https://docs.google.com/document/d/1_0j9FKcCfKHm06oeE0cYBgGxk5uYLsCRP2C3VbAib5w/edit?usp=sharing)
